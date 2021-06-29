@@ -1,6 +1,6 @@
 # Time_series_forecasting
 
-The dataset used in this work is a public data set on transactions from 12/01/2010 and 12/09/2011 for a UK-based and registered non-store online retail company. 
+The data used in this work is a public data set on transactions from 12/01/2010 and 12/09/2011 for a UK-based and registered non-store online retail company. 
 The company is interested in maintaining the right inventory given its historical sales. The objective of this work is to build a model that predicts sales quantities for 
 the 7 days from 11/27/2011 to 12/3/2011 Sun – Sat for the top three selling items. Provide an estimated number of sales of these three items, broken by country.
 
